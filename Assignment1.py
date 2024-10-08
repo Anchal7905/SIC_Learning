@@ -144,6 +144,7 @@ print(even_numbers)
 lst = [("name1", 20),("name2", 40),("name3", 80),("name4", 60)]
 print({name: score for name, score in lst})
 
+#14
 stu = {"ram": "A",
     "shyam":"B",
        "riya":"C",
