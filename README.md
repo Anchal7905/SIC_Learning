@@ -1,1 +1,2 @@
-# Samsumg_Learning
+workbook for training program
+Assignment 1 completed 
